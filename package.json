@@ -2,7 +2,7 @@
   "name": "style-kit",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/robmojosix/style-kit/issues"
   },
-  "homepage": "https://github.com/robmojosix/style-kit#readme"
+  "homepage": "https://github.com/robmojosix/style-kit#readme",
+  "dependencies": {
+    "@primer/css": "^14.2.0"
+  }
 }
